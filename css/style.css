@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel&family=Lora&family=Rajdhani:wght@300&family=Shadows+Into+Light&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family:'Lora', serif;
+	color: black;
+	font-size: 18px;
+	margin: 15px;
+	background-color: white;
+}
+h1, h2, h3 {
+	font-family:'Cinzel', serif;
+	font-weight: bold;
+	
+}
+h2, h3 {
+	color: lightpink;
+}
+
+a {
+	text-decoration: none;
+}
